@@ -1,5 +1,6 @@
 After download or clone run npm install OR yarn install to install all the dependancies. also do not forget to rename .env.example into .env an put all creadentials
 
+✈️ [Follow Sagar Gaud](https://www.linkedin.com/in/sagargaud332/)
 
 Difference between encryption and hasing?
 https://www.geeksforgeeks.org/difference-between-hashing-and-encryption/
